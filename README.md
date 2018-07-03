@@ -4,7 +4,7 @@
 ## Project Details
 That's a project I've created as a university homework for the course, CMPE 260 - Principles of Programming Languages on May 7th, 2018.
 
-What the project is about can be found via [Project.pdf](https://github.com/corupta/Scheme-Assigment/blob/master/Project.pdf)
+What the project is about can be found via [Project.pdf](https://github.com/corupta/Scheme-Assignment/blob/master/Project.pdf)
 
 ## How to Use
 
@@ -19,4 +19,4 @@ ity1> ... <activityN>))`
   
 (Check out the commented LOCATIONS and TRAVELERS list and create something similar.)
 
-Then, just run the project and you can use all the operations defined in the [Project.pdf](https://github.com/corupta/Scheme-Assigment/blob/master/Project.pdf)
+Then, just run the project and you can use all the operations defined in the [Project.pdf](https://github.com/corupta/Scheme-Assignment/blob/master/Project.pdf)
